@@ -1,0 +1,1 @@
+# samsung_a34x_patched_kernel
